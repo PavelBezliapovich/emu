@@ -1,0 +1,9 @@
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\bin\Debug\emu.exe.config
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\obj\Debug\emu.RootFr.resources
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\obj\Debug\emu.Properties.Resources.resources
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\obj\Debug\emu.csproj.GenerateResource.Cache
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\bin\Debug\emu.exe
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\bin\Debug\emu.pdb
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\obj\Debug\emu.exe
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\obj\Debug\emu.pdb
+C:\Users\mefest\Documents\Visual Studio 2012\Projects\emu\emu\obj\Debug\emu.csprojResolveAssemblyReference.cache
